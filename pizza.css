@@ -1,3 +1,52 @@
 body {
-background-color: red;
+background-color: white;
+}
+
+.form {
+clear: both;
+margin: 0% 38%;
+}
+
+.form h2,h3 {
+text-align: center;
+}
+
+.form h3 {
+font-size: 16px;
+font-weight: 100;
+}
+
+.form h2 {
+font-size: 26px;
+}
+
+.common-input {
+font-size: 14px;
+display: block;
+padding: 5px;
+margin-top: 2px;
+width: 250px;
+border-radius: 5px;
+border: 1px solid grey;
+padding: 10px;
+}
+
+p {
+font-size: 17px;
+display: inline;
+float: left
+}
+
+.submit-button {
+font-size: 18px;
+color: white;
+font-weight: 600;
+padding: 10px 80%;
+border: 0px solid green;
+background-color: darkgreen;
+border-radius: 5px;
+}
+
+span {
+text-decoration: underline;
 }
