@@ -9,6 +9,7 @@ margin: 0% 38%;
 
 .form h2,h3 {
 text-align: center;
+width: 250px;
 }
 
 .form h3 {
@@ -32,19 +33,22 @@ padding: 10px;
 }
 
 p {
-font-size: 17px;
+width: 100%;
+font-size: 16px;
 display: inline;
-float: left
+float: left;
+width: 250px;
 }
 
 .submit-button {
 font-size: 18px;
 color: white;
 font-weight: 600;
-padding: 10px 80%;
+padding: 10px 20%;
 border: 0px solid green;
 background-color: darkgreen;
 border-radius: 5px;
+width: 250px;
 }
 
 span {
